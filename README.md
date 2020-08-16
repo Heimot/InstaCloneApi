@@ -1,12 +1,6 @@
-Property of Joonas Heimonen!
-
-YOU CANNOT USE THIS REST API WITHOUT THE PERMISSION OF JOONAS HEIMONEN!
-
-CONTACT: heimonenjoonas@gmail.com
-
 # What is this application for?
 
-This is a backend for a application which keeps track of orders. 
+InstaCloneApi
 
 # Installation
 
